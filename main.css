@@ -68,6 +68,10 @@
 
 .container-fluid {
   font-family: 'Bad Script', cursive;
+  text-align: center;
+}
+.project-header {
+  font-size: 60px;
 }
 
 .project-title {
@@ -90,4 +94,14 @@
   height: 600px;
   width: 600px;
   margin-top: 20px;
+}
+.f-a {
+  text-align: center;
+  font-size: 70px;
+  margin: 40px;
+}
+
+.f-a a{
+  color: gray;
+
 }
