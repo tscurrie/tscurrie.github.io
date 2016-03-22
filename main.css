@@ -1,0 +1,93 @@
+.navbar {
+  margin-bottom: 0px;
+}
+
+.navbar-default .navbar-nav li a {
+  color: black;
+  font-size: 18px;
+}
+
+.navbar-brand{
+  color: black;
+  font-size: 20px;
+}
+
+.navbar-header a img  {
+  background: url(http://i.imgur.com/u6yNeJB.jpg);
+  height: 25px;
+  width: 25px;
+  -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+
+.navbar-static-top {
+  font-family: 'Bad Script', cursive;
+  color: black;
+  background-color: white;
+  margin-bottom: 0;
+}
+.jumbotron {
+  background: url(http://i.imgur.com/jqob1OM.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+      text-align: center;
+      height: 800px;
+
+
+}
+
+.jumbotron-about {
+  background: url(http://i.imgur.com/dmJg20b.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      font-family: 'Bad Script', cursive;
+      background-size: cover;
+      text-align: center;
+      height: 800px;
+}
+
+/*.about-me {
+  border: solid black 1px;
+  color: white;
+  background-color: black;
+  height: 300px;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+
+}*/
+#text{
+  font-family: 'Bad Script', cursive;
+}
+
+.container-fluid {
+  font-family: 'Bad Script', cursive;
+}
+
+.project-title {
+  font-family: 'Bad Script', cursive;
+  text-align: center;
+}
+
+.profile-pic img {
+  height: 200px;
+  width: 200px;
+}
+
+.project-image a img {
+  height: 300px;
+  width: 450px;
+}
+
+.super-images img {
+  margin-left: 25%;
+  height: 600px;
+  width: 600px;
+  margin-top: 20px;
+}
