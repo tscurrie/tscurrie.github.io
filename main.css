@@ -22,10 +22,8 @@
     background-size: cover;
 
 }
-
 .navbar-static-top {
-  font-family: 'Bad Script', cursive;
-  color: black;
+  font-family: 'Alegreya Sans SC', sans-serif;  color: black;
   background-color: white;
   margin-bottom: 0;
 }
@@ -46,8 +44,7 @@
     -webkit-background-size: cover;
       -moz-background-size: cover;
       -o-background-size: cover;
-      font-family: 'Bad Script', cursive;
-      background-size: cover;
+      font-family: 'Alegreya Sans SC', sans-serif;      background-size: cover;
       text-align: center;
       height: 800px;
 }
@@ -62,21 +59,24 @@
   margin-right: auto;
 
 }*/
-#text{
-  font-family: 'Bad Script', cursive;
+
+.btn-primary {
+  background-color: gray;
+  margin: 15px;
 }
 
+#text{
+  font-family: 'Alegreya Sans SC', sans-serif;}
+
 .container-fluid {
-  font-family: 'Bad Script', cursive;
-  text-align: center;
+  font-family: 'Alegreya Sans SC', sans-serif;  text-align: center;
 }
 .project-header {
   font-size: 60px;
 }
 
 .project-title {
-  font-family: 'Bad Script', cursive;
-  text-align: center;
+  font-family: 'Alegreya Sans SC', sans-serif;  text-align: center;
 }
 
 .profile-pic img {
@@ -87,6 +87,11 @@
 .project-image a img {
   height: 300px;
   width: 450px;
+  margin:10px;
+}
+
+.project-image p{
+  font-family: 'Alegreya Sans SC', sans-serif;  font-size: 20px;
 }
 
 .super-images img {
@@ -95,10 +100,17 @@
   width: 600px;
   margin-top: 20px;
 }
+.about p {
+  margin-top: 40px;
+  margin-right: 300px;
+  margin-left: 300px;
+  box-shadow: 0 2px 25px rgba(0, 0, 0, 0.55);
+
+}
 .f-a {
   text-align: center;
   font-size: 70px;
-  margin: 40px;
+  margin: 80px;
 }
 
 .f-a a{
